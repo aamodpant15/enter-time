@@ -1,4 +1,4 @@
-# time-enterer
+# enter-time
 
 Implementation is easy
 
